@@ -50,7 +50,5 @@ LangChain 支持自定义LLM，可以直接接入到框架中我们只需将 Int
 
 ![1705156064354](https://github.com/GuoYiFantastic/InternLM_training_camp/assets/130634988/1316b2df-ae92-457c-a2b3-1f8889ac0cb6)
 
-
-# Web Demo 部署
-
-# 动手实战环节
+# Web Demo部署 & 动手实战环节
+[click作业](https://github.com/GuoYiFantastic/InternLM_training_camp/blob/main/%E5%9F%BA%E4%BA%8E%20InternLM%20%E5%92%8C%20LangChain%20%E6%90%AD%E5%BB%BA%E4%BD%A0%E7%9A%84%E7%9F%A5%E8%AF%86%E5%BA%93/%E4%BD%9C%E4%B8%9A.md)
