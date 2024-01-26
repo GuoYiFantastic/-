@@ -1,4 +1,4 @@
-# Finetune 简介
+![image](https://github.com/GuoYiFantastic/InternLM_training_camp/assets/130634988/b8e78179-7b05-45ab-b8ac-a54f3ce9c7da)# Finetune 简介
 LLM 的下游应用中，增量预训练和指令跟随是经常会用到两种的微调模式
 - 增量预训练微调
 使用场景:让基座模型学习到一些新知识，如某个垂类领域的常识
@@ -30,8 +30,10 @@ LLM 的下游应用中，增量预训练和指令跟随是经常会用到两种�
 
 ![image](https://github.com/GuoYiFantastic/InternLM_training_camp/assets/130634988/c377b26a-c4ef-42f8-9b42-499783ea0e9b)
 
-
-
 # XTuner 介绍
+
 # 8GB 显卡玩转 LLM
+![image](https://github.com/GuoYiFantastic/InternLM_training_camp/assets/130634988/716a94e7-d64a-4302-ab66-b4911c6bf77c)
+
 # 动手实战环节
+见作业。
